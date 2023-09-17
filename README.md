@@ -49,3 +49,6 @@
 <a href="https://github.com/scfengv/Forest-Fire-Prediction-with-Regression-and-Classification">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=scfengv&repo=Forest-Fire-Prediction-with-Regression-and-Classification&show_icons=true&locale=en&layout=compact"" />
 </a>
+<a href="https://github.com/scfengv/Wine-Type-and-Quality-Classification">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=scfengv&repo=Wine-Type-and-Quality-Classification&show_icons=true&locale=en&layout=compact"" />
+</a>

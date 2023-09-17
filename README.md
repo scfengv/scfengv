@@ -43,12 +43,12 @@
 
 <h3 align="left">Top Repositories</h3>
 
-<a href="https://github.com/scfengv/Mathematical-and-Statistical-foundation-of-Shrinkage-method">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=scfengv&repo=Mathematical-and-Statistical-foundation-of-Shrinkage-method&show_icons=true&locale=en&layout=compact"" />
+<a href="https://github.com/scfengv/ML-Mathematical-and-Statistical-foundation-of-Shrinkage-method">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=scfengv&repo=ML-Mathematical-and-Statistical-foundation-of-Shrinkage-method&show_icons=true&locale=en&layout=compact"" />
 </a>
-<a href="https://github.com/scfengv/Forest-Fire-Prediction-with-Regression-and-Classification">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=scfengv&repo=Forest-Fire-Prediction-with-Regression-and-Classification&show_icons=true&locale=en&layout=compact"" />
+<a href="https://github.com/scfengv/ML-Forest-Fire-Prediction-with-Regression-and-Classification">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=scfengv&repo=ML-Forest-Fire-Prediction-with-Regression-and-Classification&show_icons=true&locale=en&layout=compact"" />
 </a>
-<a href="https://github.com/scfengv/Wine-Type-and-Quality-Classification">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=scfengv&repo=Wine-Type-and-Quality-Classification&show_icons=true&locale=en&layout=compact"" />
+<a href="https://github.com/scfengv/ML-Wine-Type-and-Quality-Classification">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=scfengv&repo=ML-Wine-Type-and-Quality-Classification&show_icons=true&locale=en&layout=compact"" />
 </a>

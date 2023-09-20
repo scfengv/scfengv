@@ -13,7 +13,7 @@
 
 🎒 Intelligent Computing Credit Program  @ [NCKU School of Computing](https://computing.ncku.edu.tw)
 
-👔 Fubon Big Data analytic Intern in Summer '23  @ [Fubon](https://www.fubon.com/banking/personal/index.htm?fromUrl=https://ebank.taipeifubon.com.tw/B2C/common/Index.faces&fromNo=001)
+👔 Fubon Big Data analytic Intern in Summer '23  @ [Fubon Financial Holding](https://www.fubon.com/banking/personal/index.htm?fromUrl=https://ebank.taipeifubon.com.tw/B2C/common/Index.faces&fromNo=001)
 
 📊 Participated in TitanSoft cooperation project  @ [NCKU DAC](https://www.facebook.com/NCKUDAC) 
 

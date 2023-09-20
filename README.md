@@ -19,8 +19,6 @@
 
 🌱 I’m currently learning **Natural Language Processing**
 
-👨‍💻 All of my projects are available at [Shen-Ching Feng](https://scfengv.notion.site/Vincent-Feng-15858d8466a141af90a5c2086e979697)
-
 📫 How to reach me **scvfeng27@gmail.com**
 
 

@@ -17,7 +17,7 @@
 
 📊 Participated in TitanSoft cooperation project  @ [NCKU DAC](https://www.facebook.com/NCKUDAC) 
 
-🌱 I’m currently learning **Natural Language Processing**
+🌱 I’m currently working on **Natural Language Processing**
 
 📫 How to reach me **scvfeng27@gmail.com**
 

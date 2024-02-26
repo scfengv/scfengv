@@ -15,6 +15,8 @@
 
 👔 Fubon Big Data analytic Intern in Summer '23  @ [Fubon Financial Holding](https://www.fubon.com/banking/personal/index.htm?fromUrl=https://ebank.taipeifubon.com.tw/B2C/common/Index.faces&fromNo=001)
 
+🥇 Won first prize with Repo [Topic-Modeling-for-TVL-livestream-comments](https://github.com/scfengv/NLP_DL-Topic-Modeling-for-TVL-livestream-comments) @ [iCaps](https://icaps.computing.ncku.edu.tw)
+
 📊 Participated in TitanSoft cooperation project  @ [NCKU DAC](https://www.facebook.com/NCKUDAC) 
 
 🌱 I’m currently working on **Natural Language Processing**

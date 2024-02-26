@@ -50,6 +50,6 @@
 <a href="https://github.com/scfengv/ML-Wine-Type-and-Quality-Classification">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=scfengv&repo=ML-Wine-Type-and-Quality-Classification&show_icons=true&locale=en&layout=compact"" />
 </a>
-<a href="https://github.com/scfengv/NLP-Sentiment-Classifier">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=scfengv&repo=NLP-Sentiment-Classifier&show_icons=true&locale=en&layout=compact"" />
+<a href="https://github.com/scfengv/NLP_DL-Topic-Modeling-for-TVL-livestream-comments">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=scfengv&repo=NLP_DL-Topic-Modeling-for-TVL-livestream-comments&show_icons=true&locale=en&layout=compact"" />
 </a>

@@ -19,7 +19,7 @@
 
 📊 Participated in TitanSoft cooperation project  @ [NCKU DAC](https://www.facebook.com/NCKUDAC) 
 
-🌱 I’m currently working on **Natural Language Processing** and **Optimization**
+🌱 I’m currently working on **Natural Language Processing** and **Swarm Intelligence Algorithms**
 
 📫 How to reach me **scvfeng27@gmail.com**
 

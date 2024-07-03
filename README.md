@@ -9,7 +9,9 @@
 
 📍 Lived in Hsinchu, Currently studied in Tainan, Taiwan 🇹🇼
 
-🏫 Senior of Materials Science and Engineering  @ [NCKU](https://www.ncku.edu.tw)
+📝 Research Assistant @ [Institute of Statistical Science, Academia Sinica](https://www.stat.sinica.edu.tw/cht/index.php?)
+
+🏫 Bachelor of Materials Science and Engineering  @ [NCKU](https://www.ncku.edu.tw)
 
 🎒 Intelligent Computing Credit Program  @ [NCKU School of Computing](https://computing.ncku.edu.tw)
 

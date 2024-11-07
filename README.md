@@ -7,9 +7,9 @@
 
 👶🏻 Born in Dec. 2000
 
-📍 Lived in Hsinchu, Currently studied in Tainan, Taiwan 🇹🇼
+📍 Lived in Hsinchu, Studied in Tainan, Born in Taiwan 🇹🇼
 
-📝 Research Assistant @ [Institute of Statistical Science, Academia Sinica](https://www.stat.sinica.edu.tw/cht/index.php?)
+📝 Currently work as a Research Assistant @ [Institute of Statistical Science, Academia Sinica](https://www.stat.sinica.edu.tw/cht/index.php?)
 
 🏫 Bachelor of Materials Science and Engineering  @ [NCKU](https://www.ncku.edu.tw)
 

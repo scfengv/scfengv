@@ -9,17 +9,19 @@
 
 📍 Lived in Hsinchu, Studied in Tainan, Born in Taiwan 🇹🇼
 
-📝 Currently work as a Research Assistant @ [Institute of Statistical Science, Academia Sinica](https://www.stat.sinica.edu.tw/cht/index.php?)
+🏫 Incoming Master of Science in Financial Mathematics '26 @ [University of Chicago](https://finmath.uchicago.edu/)
 
-🏫 Bachelor of Materials Science and Engineering  @ [NCKU](https://www.ncku.edu.tw)
+📝 Research Assistant (Jul. 24 - Jan. 25) @ [Institute of Statistical Science, Academia Sinica](https://www.stat.sinica.edu.tw/cht/index.php?)
 
-🎒 Intelligent Computing Credit Program  @ [NCKU School of Computing](https://computing.ncku.edu.tw)
+🎓 Bachelor of Materials Science and Engineering (class of 2024) @ [NCKU](https://www.ncku.edu.tw)
 
-👔 Fubon Big Data analytic Intern in Summer '23  @ [Fubon Financial Holding](https://www.fubon.com/banking/personal/index.htm?fromUrl=https://ebank.taipeifubon.com.tw/B2C/common/Index.faces&fromNo=001)
+🎒 Intelligent Computing Credit Program @ [NCKU School of Computing](https://computing.ncku.edu.tw)
+
+👔 Fubon Big Data analytic Intern in (Jul. 23 - Aug. 23) @ [Fubon Financial Holding](https://www.fubon.com/banking/personal/index.htm?fromUrl=https://ebank.taipeifubon.com.tw/B2C/common/Index.faces&fromNo=001)
 
 🥇 Won first prize with Repo [Topic-Modeling-for-TVL-livestream-comments](https://github.com/scfengv/NLP-Topic-Modeling-for-TVL-livestream-comments) @ [iCaps](https://icaps.computing.ncku.edu.tw)
 
-📊 Participated in TitanSoft cooperation project  @ [NCKU DAC](https://www.facebook.com/NCKUDAC) 
+📊 Participated in TitanSoft cooperation project @ [NCKU DAC](https://www.facebook.com/NCKUDAC) 
 
 🌱 I’m currently working on **Natural Language Processing** and **Swarm Intelligence Algorithms**
 

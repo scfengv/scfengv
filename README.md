@@ -17,7 +17,7 @@
 
 🎒 Intelligent Computing Credit Program @ [NCKU School of Computing](https://computing.ncku.edu.tw)
 
-👔 Fubon Big Data analytic Intern in (Jul. 23 - Aug. 23) @ [Fubon Financial Holding](https://www.fubon.com/banking/personal/index.htm?fromUrl=https://ebank.taipeifubon.com.tw/B2C/common/Index.faces&fromNo=001)
+👔 Fubon Big Data analytic Intern (Jul. 23 - Aug. 23) @ [Fubon Financial Holding](https://www.fubon.com/banking/personal/index.htm?fromUrl=https://ebank.taipeifubon.com.tw/B2C/common/Index.faces&fromNo=001)
 
 🥇 Won first prize with Repo [Topic-Modeling-for-TVL-livestream-comments](https://github.com/scfengv/NLP-Topic-Modeling-for-TVL-livestream-comments) @ [iCaps](https://icaps.computing.ncku.edu.tw)
 
